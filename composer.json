@@ -1,0 +1,11 @@
+{
+    "name": "jdlxt/easy-plugin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Julien Delsescaux",
+            "email": "none@mail.com"
+        }
+    ],
+    "require": {}
+}
