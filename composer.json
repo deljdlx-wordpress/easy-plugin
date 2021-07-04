@@ -7,5 +7,10 @@
             "email": "none@mail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "EasyPlugin\\" : "./source/class"
+        }
+    },
 }
